@@ -1,3 +1,4 @@
+# Mayo 2018
 # Clasificador Discriminatorio
 
 El objetivo principal de este proyecto es contribuir al desarrollo de un sistema eficiente y preciso para la detección de lenguaje discriminatorio en redes sociales.
